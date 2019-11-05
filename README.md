@@ -1,5 +1,7 @@
 # geostase_viewer
-View contents of *.gsd files without opening the program
+## The *.pck file and *.exe file must be in the same folder for the tool to function
+
+View contents of *.gsd files without opening the Geostase program.
 
 Upon opening the tool you will see a blank grey screen. This is the area where the *.gsd file will be dragged to.
 
